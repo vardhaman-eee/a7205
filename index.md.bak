@@ -27,10 +27,6 @@ Upon completing this course, our goal is for you to be able to:
 * Use modular components to decompose problems and assemble solutions.
 * Create abstract, generalized models from specific, complex examples.
 
-# <a name="Syllabus">Syllabus</a>
-
-{{ site.syllabus }}
-
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
