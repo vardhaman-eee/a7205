@@ -31,7 +31,7 @@ semester: 2021-2022
 navigation:
   - title: Overview
     subfolderitems:
-      - page: Objevtives
+      - page: Objectives
         url: '#objectives'
       - page: Course Outcomes
         url: '#outcomes'
