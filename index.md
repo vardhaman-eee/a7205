@@ -9,11 +9,11 @@
 layout: course-multi
 ---
 
-# <a name="description">Overview</a>
+# <a name="description">Objectives</a>
 
-{{ site.description }}
+{{ site.objectives }}
 
-## <a name="goals">Learning Goals</a>
+## <a name="outcomes">Course Outcomes</a>
 
 Upon completing this course, our goal is for you to be able to:
 
@@ -34,12 +34,6 @@ Upon completing this course, our goal is for you to be able to:
 ## <a name="additional-resources">Optional Resources</a>
 
 {% include resources.html content=site.extra-resources %}
-
-## Laptop Policy
-
-Please **do not bring laptops to lecture**. This may seem strange in a computer science class. But lab is the place where you will get plenty of experience working on the computer; lecture is a time for thinking and learning without the distraction of a computer.
-
-Exceptions may be made on a case-by-case basis if you can prove to me that you really do benefit from using your laptop to take notes.
 
 <hr>
 
