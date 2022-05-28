@@ -39,6 +39,9 @@ Upon completing this course, our goal is for you to be able to:
 
 **Economic Aspects of Power Generation and Tariff Methods:** Base load andpeak load on power station. Interconnected grid system, Load curve, load duration andintegrated load duration curves, demand, diversity, capacity, utilization and plant usefactors. Costs of electrical energy - Fixed, Semi-fixed and Running Costs, Selection oftype of generation and generation equipment, Performance and operating characteristicsof power plants, Economic scheduling principle. Tariff, Characteristics, Types - Flat Rate,Block-Rate, two-part, three-part, and power factor tariff methods.
 
+# <a name="textbooks">Text Books</a>
+
+
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
