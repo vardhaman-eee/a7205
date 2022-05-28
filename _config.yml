@@ -23,6 +23,7 @@ objectives: >- # this means to ignore newlines until "baseurl:"
   language.  
 syllabus: >-
     Unit 1 - Introduction Conventional Energy Sources and their availability, Non-ConventionalEnergy Sources and their availability, Environmental impact of conventional and Non-Conventional energy sources. Hydro Electric Power Plants - Site selection, Plant layout,various components, Types of turbines, Governor and speed regulation, Pumped storage,Small scale hydroelectric plants (mini and micro).
+    Unit 2 - Thermal Power Plant:Site selection, Plant layout, Coal its storage, Preparation, Han-dling, Feeding and burning, Cooling towers, Ash handling, Water treatment plant, Highpressure boilers and steam turbines.    
 baseurl: "/a7205" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

@@ -5,8 +5,8 @@
 # For courses with a single offering in the _config.yml,
 # uncomment the following line and comment out the course-multi line
 
-#layout: course-single
-layout: course-multi
+layout: course-single
+#layout: course-multi
 ---
 
 # <a name="description">Objectives</a>
@@ -29,7 +29,15 @@ Upon completing this course, our goal is for you to be able to:
 
 # <a name="Syllabus">Syllabus</a>
 
-{{ site.syllabus }}
+**Introduction:** Conventional Energy Sources and their availability, Non-ConventionalEnergy Sources and their availability, Environmental impact of conventional and Non-Conventional energy sources. Hydro Electric Power Plants - Site selection, Plant layout,various components, Types of turbines, Governor and speed regulation, Pumped storage,Small scale hydroelectric plants (mini and micro).
+
+**Thermal Power Plant:** Site selection, Plant layout, Coal its storage, Preparation, Han-dling, Feeding and burning, Cooling towers, Ash handling, Water treatment plant, Highpressure boilers and steam turbines.
+
+**Nuclear Power Plant:** Main components of nuclear power plant, Nuclear reactors typesand applications, Radiation shielding, Radioactive and waste disposal safety aspect.
+
+**Wind Energy:** Horizontal and vertical axis windmills, performance characteristics andBetz criteria. Bio-Mass: Principles of Bio-Conversion, Anaerobic/aerobic digestion, typesof Bio-gas digesters, gas yield, combustion characteristics of bio-gas, utilization for cook-ing. Geothermal Energy: Resources, types of wells, methods of harnessing the energy, potential in India. Tidal and Wave Energy: Potential, Conversion techniques and mini-hydel power plants.
+
+**Economic Aspects of Power Generation and Tariff Methods:** Base load andpeak load on power station. Interconnected grid system, Load curve, load duration andintegrated load duration curves, demand, diversity, capacity, utilization and plant usefactors. Costs of electrical energy - Fixed, Semi-fixed and Running Costs, Selection oftype of generation and generation equipment, Performance and operating characteristicsof power plants, Economic scheduling principle. Tariff, Characteristics, Types - Flat Rate,Block-Rate, two-part, three-part, and power factor tariff methods.
 
 ## <a name="resources">Resources</a>
 
