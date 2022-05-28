@@ -11,10 +11,10 @@ layout: default
           <div class="col-md-6">
                   {% for offer in site.offerings %}
                     <div class="instructor">
-                    <!--h5>Time</h5>
+                    <h5>Time</h5>
                     <p>{{ offer.time }}</p>
                     <h5>Location</h5>
-                    <p>{{ offer.loc }}</p-->
+                    <p>{{ offer.loc }}</p>
                     {% for inst in site.instructors %}
                     {% if offer.instructor == inst.id %}
                     <h5>Instructor</h5>
