@@ -11,7 +11,6 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-objectives: >- # this means to ignore newlines until "baseurl:"
   Introduction to solving computational problems, including the fundamentals
   of computer programming. Topics include imperative programming constructs
   (variables, loops, conditionals, functions, recursion), basic
