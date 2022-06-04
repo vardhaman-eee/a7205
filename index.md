@@ -11,7 +11,14 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-{{ site.objectives }}
+objectives: >- # this means to ignore newlines until "baseurl:"
+  Introduction to solving computational problems, including the fundamentals
+  of computer programming. Topics include imperative programming constructs
+  (variables, loops, conditionals, functions, recursion), basic
+  object-oriented constructs (classes, objects), and some fundamental
+  algorithms and data structures (dictionaries, arrays, linked lists).
+  Student learn these concepts through studying the Python programming
+  language.  
 
 ## <a name="outcomes">Course Outcomes</a>
 
