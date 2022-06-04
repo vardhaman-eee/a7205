@@ -45,10 +45,10 @@ navigation:
         url: 'resources'
   - title: Coursework
     subfolderitems:
-      - page: Alternate Assessments
-        url: '#aat'
       - page: Practice
         url: '#practice'
+      - page: Alternative Assessment
+        url: '#aat'
       - page: Continuous Assessment
         url: '#cat'
       - page: Scale

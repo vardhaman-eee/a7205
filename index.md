@@ -62,13 +62,14 @@ Upon completing this course, our goal is for you to be able to:
 # Resources
 
 ## <a name="lecturenotes">Lecture Notes</a>
+
 1. 
-2.
-3.
-4.
-5.
+2. 
+3. 
+4. 
+5. 
 
-
+<hr>
 
 # Coursework
 
