@@ -47,16 +47,28 @@ Upon completing this course, our goal is for you to be able to:
 
 # <a name="textbooks">Text Books</a>
 
+1. 
+2. 
+3. 
 
-## <a name="resources">Resources</a>
+## <a name="references">References</a>
 
-{% include resources.html content=site.resources %}
-
-## <a name="additional-resources">Optional Resources</a>
-
-{% include resources.html content=site.extra-resources %}
+1. 
+2. 
+3. 
 
 <hr>
+
+# Resources
+
+## <a name="lecturenotes">Lecture Notes</a>
+1. 
+2.
+3.
+4.
+5.
+
+
 
 # Coursework
 
@@ -68,7 +80,7 @@ both use 1 late day. Note that late days are intended to cover both normal
 circumstances (you simply want more time to work on the assignment) and
 exceptional circumstances. The late assignments will receive at most half credit.
 
-## <a name="hwqz">Homework and Quizzes</a>: 140 points
+## <a name="aat">Alternate Assessments</a>: 140 points
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
@@ -77,7 +89,7 @@ exceptional circumstances. The late assignments will receive at most half credit
 |2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 |3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 
-## <a name="labs">Labs</a>: 260 points
+## <a name="practice">Practice</a>: 260 points
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
@@ -87,7 +99,7 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 **Lab attendance is required**.
 
-## <a name="assessment">Assessment</a>: 250 points
+## <a name="cat">Continuous Assessment</a>: 250 points
 
 There will be three in-class exams, the first worth 50 points and the second and
 third worth 100 of your final grade. They will consist of short answer

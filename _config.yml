@@ -39,16 +39,18 @@ navigation:
         url: '#syllabus'
       - page: Text Books
         url: '#textbooks'
-#  - page: In-Class Code
+   #  - page: In-Class Code
 #    url: '#inclasscode'
+      - page: Resources
+        url: 'resources'
   - title: Coursework
     subfolderitems:
-      - page: Homework and Quizzes
-        url: '#hwqz'
-      - page: Labs
-        url: '#labs'
-      - page: Assessment
-        url: '#assessment'
+      - page: Alternate Assessments
+        url: '#aat'
+      - page: Practice
+        url: '#practice'
+      - page: Continuous Assessment
+        url: '#cat'
       - page: Scale
         url: '#scale'
   - page: Commitments
@@ -65,31 +67,6 @@ offerings:
   - name: LECTURE
     loc: MCREY 110
     instructor: yorgey 
-
-resources:
-  - name: Python 3
-    image: assets/images/pythonlogo.png
-    url: http://python.org
-  - name: Azure Notebooks
-    image: assets/images/azure.png
-    url: https://notebooks.azure.com/
-  - name: Pycharm
-    image: assets/images/pycharmlogo.png
-    url: https://www.jetbrains.com/pycharm/
-
-extra-resources:
-  - name: "How to Think Like a Computer Scientist: Interactive Edition"
-    image: assets/images/runestone_logo.png
-    url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-  - name: Python Tutor
-    image: assets/images/python_tutor.png
-    url: http://pythontutor.com/
-  - name: CodingBat Python
-    image: assets/images/codingbat.jpg
-    url: https://codingbat.com/python
-  - name: CheckiO Python Practice
-    image: assets/images/checkio_logo_small.png
-    url: https://py.checkio.org/
 
 # Build settings
 markdown: kramdown
