@@ -47,10 +47,8 @@ navigation:
         url: '#hwqz'
       - page: Labs
         url: '#labs'
-      - page: Projects
-        url: '#projects'
-      - page: Exams
-        url: '#exams'
+      - page: Assessment
+        url: '#assessment'
       - page: Scale
         url: '#scale'
   - page: Commitments
