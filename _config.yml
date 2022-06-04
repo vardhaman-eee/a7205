@@ -41,7 +41,7 @@ navigation:
         url: '#textbooks'
    #  - page: In-Class Code
 #    url: '#inclasscode'
-- title: Resources
+  - title: Resources
     subfolderitems:
       - page: Lecture Notes
         url: 'lecturenotes'
