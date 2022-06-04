@@ -17,15 +17,10 @@ layout: course-single
 
 Upon completing this course, our goal is for you to be able to:
 
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
+A7205.1 Identify the different components of an electric power system. 
+A7205.2 Categorize the methods of generating electrical power to meet the required Load demand. 
+A7205.3 Develop a layout and single line diagram for a given substation. 
+A7205.4 Model a power system to reduce economic losses. 
 
 # <a name="syllabus">Syllabus</a>
 
