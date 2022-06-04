@@ -58,17 +58,6 @@ Upon completing this course, our goal is for you to be able to:
 
 <hr>
 
-# <a name="inclasscode">In-Class Code</a>
-
-When we write code together in class, it will be posted here!
-
-| Date | Topic | Code |
-|:----:|------||-----||
-| F 30 Aug | Intro to Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
-| W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
-
-<hr>
 # Coursework
 
 Each student has **four late days** to spend throughout the semester as they wish.

@@ -39,8 +39,8 @@ navigation:
         url: '#syllabus'
       - page: Text Books
         url: '#textbooks'
-  - page: In-Class Code
-    url: '#inclasscode'
+#  - page: In-Class Code
+#    url: '#inclasscode'
   - title: Coursework
     subfolderitems:
       - page: Homework and Quizzes
