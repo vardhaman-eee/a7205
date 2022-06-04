@@ -40,6 +40,10 @@ body {
     color: white;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+}
+
 a {
   color: var(--main-color);
   text-decoration: none;

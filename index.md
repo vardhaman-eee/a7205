@@ -11,13 +11,7 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  Introduction to solving computational problems, including the fundamentals
-  of computer programming. Topics include imperative programming constructs
-  (variables, loops, conditionals, functions, recursion), basic
-  object-oriented constructs (classes, objects), and some fundamental
-  algorithms and data structures (dictionaries, arrays, linked lists).
-  Student learn these concepts through studying the Python programming
-  language.  
+  Electrical Energy plays a significant role in day-to-day life of entire mankind. This course deals with the generation of power along with its economic aspects. It deals with the basic theory of various conventional power stations and the different components present in them. The course also helps the students to familiarize with different types of substations and its advantages and disadvantages. It also deals with the economic aspects of power system, power factor correction techniques and suitable pricing methods. 
 
 ## <a name="outcomes">Course Outcomes</a>
 
@@ -47,15 +41,13 @@ Upon completing this course, our goal is for you to be able to:
 
 # <a name="textbooks">Text Books</a>
 
-1. 
-2. 
-3. 
+1. M. L. Soni, P. V. Gupta, U. S. Bhatnagar, A. Chakrabarti (2010), “A Text Book on Power System Engineering”, 2nd Edition, Dhanpat Rai & Co. Pvt. Ltd, New Delhi.
+2. C. L. Wadhwa (2010), “Generation, Distribution and Utilization of Electrical Energy”, 3rd Edition, New Age International (P) Limited, New Delhi.
 
-## <a name="references">References</a>
+## <a name="references">Reference Books</a>
 
-1. 
-2. 
-3. 
+1. Leonard L. Grigsby (2012), “Electric Power Generation Transmission and Distribution, 3rd Edition, CRC press.
+2. J. B. Gupta (2010), “A Course in Power Systems”, 10th Edition, S. K. Kataria & Sons, New Delhi.
 
 <hr>
 
