@@ -15,11 +15,14 @@ layout: course-single
 
 ## <a name="outcomes">Course Outcomes</a>
 
-Upon completing this course, our goal is for you to be able to:
+After the completion of the course, the student will be able to:
 
-A7205.1 Identify the different components of an electric power system. 
+A7205.1 Identify the different components of an electric power system.
+ 
 A7205.2 Categorize the methods of generating electrical power to meet the required Load demand. 
+
 A7205.3 Develop a layout and single line diagram for a given substation. 
+
 A7205.4 Model a power system to reduce economic losses. 
 
 # <a name="syllabus">Syllabus</a>
