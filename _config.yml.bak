@@ -52,7 +52,9 @@ navigation:
       - page: Alternative Assessment
         url: '#aat'
       - page: Continuous Assessment
-        url: '#cat'      
+        url: '#cat'
+      - page: Scale
+        url: '#scale'
   - page: Commitments
     url: '#commitments'
 
