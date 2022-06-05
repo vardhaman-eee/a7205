@@ -75,18 +75,27 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
 |2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 |3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 
 ## <a name="practice">Practice</a>
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 | Sep 4-5 |
-|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
-|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
+| Exp No.  | Name | Download |
+|:--:|-----||:--------:|
+|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
+|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
+|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
+|4 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
+|5 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
+|6 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
+|7 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
+|8 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
+|9 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
+|10 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
+|11 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
+|12 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
 
 **Lab attendance is required**.
 
@@ -94,8 +103,5 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-
+|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
