@@ -57,10 +57,10 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: yorgey
-    name: Dr. Brent Yorgey
-    email: yorgey@hendrix.edu
-    web: http://ozark.hendrix.edu/~yorgey
+  - id: ns
+    name: Mr. N. Srinivas
+    email: n.srinivas@vardhaman.org
+    #web: http://ozark.hendrix.edu/~yorgey
     phone: (501) 450-1377    
 
 offerings:

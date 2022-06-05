@@ -52,17 +52,15 @@ navigation:
       - page: Alternative Assessment
         url: '#aat'
       - page: Continuous Assessment
-        url: '#cat'
-      - page: Scale
-        url: '#scale'
+        url: '#cat'      
   - page: Commitments
     url: '#commitments'
 
 instructors:
-  - id: yorgey
-    name: Dr. Brent Yorgey
+  - id: ns
+    name: Mr. N. Srinivas
     email: yorgey@hendrix.edu
-    web: http://ozark.hendrix.edu/~yorgey
+    #web: http://ozark.hendrix.edu/~yorgey
     phone: (501) 450-1377    
 
 offerings:
