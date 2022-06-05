@@ -60,8 +60,8 @@ instructors:
   - id: ns
     name: Mr. N. Srinivas
     email: n.srinivas@vardhaman.org
-    #web: http://ozark.hendrix.edu/~yorgey
-    phone: (501) 450-1377    
+    #web: http://wwww.example.com
+    phone: +91 99894 83439    
 
 offerings:
   - name: LECTURE
