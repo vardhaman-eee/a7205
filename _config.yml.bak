@@ -65,7 +65,7 @@ instructors:
 
 offerings:
   - name: LECTURE
-    loc: MCREY 110
+    loc: 5103
     instructor: ns 
 
 # Build settings
