@@ -65,8 +65,8 @@ instructors:
 
 offerings:
   - name: LECTURE
-    loc: MCREY 110
-    instructor: yorgey 
+    loc: 5103
+    instructor: ns 
 
 # Build settings
 markdown: kramdown

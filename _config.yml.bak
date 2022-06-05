@@ -60,13 +60,13 @@ instructors:
   - id: ns
     name: Mr. N. Srinivas
     email: n.srinivas@vardhaman.org
-    #web: http://ozark.hendrix.edu/~yorgey
+    #web: http://wwww.example.com
     phone: +91 99894 83439    
 
 offerings:
   - name: LECTURE
     loc: MCREY 110
-    instructor: yorgey 
+    instructor: ns 
 
 # Build settings
 markdown: kramdown
