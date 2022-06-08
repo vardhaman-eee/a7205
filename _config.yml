@@ -47,8 +47,8 @@ navigation:
         url: '#lecturenotes'
   - title: Coursework
     subfolderitems:
-      - page: Practice
-        url: '#practice'
+  #    - page: Practice
+   #     url: '#practice'
       - page: Alternative Assessment
         url: '#aat'
       - page: Continuous Assessment

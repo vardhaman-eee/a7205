@@ -80,25 +80,6 @@ exceptional circumstances. The late assignments will receive at most half credit
 |3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 |4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
 
-## <a name="practice">Practice</a>
-
-| Exp No.  | Name | Download |
-|:--:|-----||:--------:|
-|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
-|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
-|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
-|4 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
-|5 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
-|6 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
-|7 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
-|8 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
-|9 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
-|10 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 |
-|11 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 |
-|12 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 |
-
-**Lab attendance is required**.
-
 ## <a name="cat">Continuous Assessment</a>
 
 | #  | Name | Question Paper | Schema  |
