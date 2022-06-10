@@ -53,36 +53,29 @@ A7205.4 Model a power system to reduce economic losses.
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+|1 | [Assignment # 1](link) | - | - |
+|1 | [Assignment # 2](link) | - | - |
+|1 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 4](link) | - | - |
 
 <hr>
 
 # Coursework
 
-Inform the instructor any time *prior* to the due date for an assignment
-that you wish to use a late day; you may then turn in the assignment up to 24
-hours late. Multiple late days may be used on the same assignment. There are no
-partial late days; turning in an assignment 2 hours late or 20 hours late will
-both use 1 late day. Note that late days are intended to cover both normal
-circumstances (you simply want more time to work on the assignment) and
-exceptional circumstances. The late assignments will receive at most half credit.
+Inform the instructor any time *prior* to the due date for an assignment that you wish to use a late day; you may then turn in the assignment up to 24 hours late. Multiple late days may be used on the same assignment. There are no partial late days; turning in an assignment 2 hours late or 20 hours late will both use 1 late day. Note that late days are intended to cover both normal circumstances (you simply want more time to work on the assignment) and exceptional circumstances. The late assignments will receive at most half credit.
 
 ## <a name="aat">Alternate Assessments</a>
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Assignment # 1](link) | - | - |
+|1 | [Assignment # 2](link) | - | - |
+|1 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 4](link) | - | - |
 
 ## <a name="cat">Continuous Assessment</a>
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](link) | [Download](link) |
+|2 | CAT - II | [Download](link) | [Download](link) |
